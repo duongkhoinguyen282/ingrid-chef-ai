@@ -1,7 +1,7 @@
 
 # Chef AI - Ingrid
 
-Chef AI, also called "Ingrid," is a desktop application that acts as your personal chef assistant. With Ingrid's expertise, you can receive personalized dish suggestions and step-by-step cooking instructions based on the ingredients you have, your preferred dish type, cuisine, quality, and the maximum cooking time. Whether you're looking for a quick family meal or a gourmet experience, Ingrid has you covered!
+Chef AI, also called "Ingrid," (the name “Ingrid” is inspired by the word “Ingredient” but in short) is a desktop application that acts as your personal chef assistant. With Ingrid's expertise, you can receive personalized dish suggestions and step-by-step cooking instructions based on the ingredients you have, your preferred dish type, cuisine, quality, and the maximum cooking time. Whether you're looking for a quick family meal or a gourmet experience, Ingrid has you covered!
 
 ## Features
 
