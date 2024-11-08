@@ -2,7 +2,7 @@ from groq import Groq
 from tkinter import *
 
 client = Groq(
-    api_key="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"
+    api_key="<API_KEY>"
 )
 
 window = Tk()

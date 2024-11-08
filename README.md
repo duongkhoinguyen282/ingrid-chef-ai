@@ -7,9 +7,9 @@ Chef AI, also called "Ingrid," is a desktop application that acts as your person
 
 - **Interactive GUI**: Simple and user-friendly interface created using Python's `Tkinter` library.
 - **Customizable Meal Suggestions**: Receive dish suggestions based on ingredients, dish type, cuisine, quality, and cooking time.
-- **Creative Dish Options**: Ingrid can still suggest a recipe even with limited or unusual ingredient combinations.
-- **Step-by-Step Instructions**: Get detailed instructions on how to prepare your chosen dish.
-- **Multiple Dish Quality Options**: Choose from restaurant-quality, family-style, or easy, healthy options.
+- **Creative Dish Options**: Instead of providing only the existent dishes, Ingrid can create a new dish or alter to suit users’s preference.
+- **Step-by-Step Instructions**: Get detailed instructions on how to prepare your chosen dish, and cooking time for each step.
+- **Ingredient Alternatives**: If the given information can not be a good combination, Ingrid will suggest alternatives, or be creative if user provides insufficient details.
 
 ## Installation
 
@@ -53,14 +53,10 @@ Chef AI, also called "Ingrid," is a desktop application that acts as your person
 ├── README.md          # Project documentation
 ```
 
-## Future Enhancements
+## Future Upgrades
 
 - **Advanced Error Handling**: Improve response feedback for unusual or incompatible ingredient combinations.
-- **Additional Cuisine & Dish Options**: Broaden recipe categories and regional cuisines.
-- **Interactive Skill Level Selection**: Allow users to choose their cooking skill level for tailored recipes.
-
-## License
-
-This project is licensed under the MIT License.
+- **Interactive Chatbot**: Easily change the step and ask AI for more detail.
+- **Multi-platform**: Can be developed to be suitable and run smoothly on various type of devices, allowing users to use in various situations.
 
 Happy cooking with Ingrid, your personal Chef AI! 👩‍🍳
