@@ -49,7 +49,7 @@ Chef AI, also called "Ingrid," is a desktop application that acts as your person
 ## Project Structure
 
 ```plaintext
-├── chef_ai.py         # Main script to run Chef AI
+├── main.py         # Main script to run Chef AI
 ├── README.md          # Project documentation
 ```
 
