@@ -28,7 +28,7 @@ Chef AI, also called "Ingrid," is a desktop application that acts as your person
 1. **Start the Application**:
    - Run the script using:
      ```bash
-     python chef_ai.py
+     python main.py
      ```
    - The GUI window will open, displaying fields for your input.
 
